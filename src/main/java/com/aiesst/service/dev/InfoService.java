@@ -5,7 +5,7 @@ import com.aiesst.model.request.ReqInfo;
 import com.aiesst.model.response.RestCode;
 import com.aiesst.model.response.RestModel;
 import com.aiesst.model.response.dev.RepInfo;
-import com.aiesst.model.sql.dev.EntityInfo;
+import com.aiesst.model.entity.dev.EntityInfo;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

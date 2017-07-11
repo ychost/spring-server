@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class QidongApplication {
+public class AiesstApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(QidongApplication.class, args);
+		SpringApplication.run(AiesstApplication.class, args);
 	}
 }

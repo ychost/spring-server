@@ -1,6 +1,6 @@
 package com.aiesst.model.response.dev;
 
-import com.aiesst.model.sql.dev.EntityInfo;
+import com.aiesst.model.entity.dev.EntityInfo;
 
 /**
  * @author ychost<ychost@outlook.com>

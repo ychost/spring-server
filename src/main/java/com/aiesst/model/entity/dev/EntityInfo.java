@@ -1,6 +1,4 @@
-package com.aiesst.model.sql.dev;
-
-import com.aiesst.model.sql.EntityBase;
+package com.aiesst.model.entity.dev;
 
 import javax.persistence.*;
 import java.util.Date;

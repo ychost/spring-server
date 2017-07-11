@@ -2,7 +2,7 @@ package com.aiesst.manager.dev;
 
 import com.aiesst.manager.BaseManager;
 import com.aiesst.manager.Manager;
-import com.aiesst.model.sql.dev.EntityInfo;
+import com.aiesst.model.entity.dev.EntityInfo;
 import org.jinq.jpa.JPQL;
 
 import java.util.List;
