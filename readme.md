@@ -1,6 +1,6 @@
 # 架构说明
 
-**@author: ** ychost<ychost@outlook.com>
+**@author: ** ychost\<ychost@outlook.com\>
 
 **@date:**       2017-07-11
 
